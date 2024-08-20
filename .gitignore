@@ -40,3 +40,6 @@ logs/
 # mvn
 mvn*
 .mvn/
+
+### Local Configuration ###
+.env
